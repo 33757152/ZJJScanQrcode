@@ -7,15 +7,39 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		78064D0E21D60B4E0052E312 /* ZJJGetSystemImageTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 78064D0C21D60B4D0052E312 /* ZJJGetSystemImageTool.m */; };
+		78064D1021D60FD30052E312 /* qrcode_scan_btn_photo_down@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 78064D0F21D60FD30052E312 /* qrcode_scan_btn_photo_down@2x.png */; };
+		78064D1221D612600052E312 /* qrcode_scan_btn_flash_down@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 78064D1121D612600052E312 /* qrcode_scan_btn_flash_down@2x.png */; };
+		78064D1521D617250052E312 /* ZJJWebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 78064D1421D617250052E312 /* ZJJWebViewController.m */; };
+		78064D1821D61D4A0052E312 /* ZJJCreateCodeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 78064D1721D61D4A0052E312 /* ZJJCreateCodeViewController.m */; };
+		787B33F521D4CC2D006063B3 /* ZJJTranslucentView.m in Sources */ = {isa = PBXBuildFile; fileRef = 787B33F421D4CC2D006063B3 /* ZJJTranslucentView.m */; };
+		787B33F821D4CC76006063B3 /* ZJJScanViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 787B33F721D4CC76006063B3 /* ZJJScanViewController.m */; };
 		78D9C2EF21D37C9300352EF6 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 78D9C2EE21D37C9300352EF6 /* AppDelegate.m */; };
 		78D9C2F221D37C9300352EF6 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 78D9C2F121D37C9300352EF6 /* ViewController.m */; };
 		78D9C2F521D37C9300352EF6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 78D9C2F321D37C9300352EF6 /* Main.storyboard */; };
 		78D9C2F721D37C9500352EF6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 78D9C2F621D37C9500352EF6 /* Assets.xcassets */; };
 		78D9C2FA21D37C9500352EF6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 78D9C2F821D37C9500352EF6 /* LaunchScreen.storyboard */; };
 		78D9C2FD21D37C9500352EF6 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 78D9C2FC21D37C9500352EF6 /* main.m */; };
+		78D9C30C21D38AF800352EF6 /* scan_2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 78D9C30721D38AF800352EF6 /* scan_2@2x.png */; };
+		78D9C30D21D38AF800352EF6 /* scan_net@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 78D9C30821D38AF800352EF6 /* scan_net@2x.png */; };
+		78D9C30E21D38AF800352EF6 /* scan_1@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 78D9C30921D38AF800352EF6 /* scan_1@2x.png */; };
+		78D9C30F21D38AF800352EF6 /* scan_4@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 78D9C30A21D38AF800352EF6 /* scan_4@2x.png */; };
+		78D9C31021D38AF800352EF6 /* scan_3@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 78D9C30B21D38AF800352EF6 /* scan_3@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		78064D0C21D60B4D0052E312 /* ZJJGetSystemImageTool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZJJGetSystemImageTool.m; sourceTree = "<group>"; };
+		78064D0D21D60B4D0052E312 /* ZJJGetSystemImageTool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZJJGetSystemImageTool.h; sourceTree = "<group>"; };
+		78064D0F21D60FD30052E312 /* qrcode_scan_btn_photo_down@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "qrcode_scan_btn_photo_down@2x.png"; sourceTree = "<group>"; };
+		78064D1121D612600052E312 /* qrcode_scan_btn_flash_down@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "qrcode_scan_btn_flash_down@2x.png"; sourceTree = "<group>"; };
+		78064D1321D617250052E312 /* ZJJWebViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZJJWebViewController.h; sourceTree = "<group>"; };
+		78064D1421D617250052E312 /* ZJJWebViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZJJWebViewController.m; sourceTree = "<group>"; };
+		78064D1621D61D4A0052E312 /* ZJJCreateCodeViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZJJCreateCodeViewController.h; sourceTree = "<group>"; };
+		78064D1721D61D4A0052E312 /* ZJJCreateCodeViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZJJCreateCodeViewController.m; sourceTree = "<group>"; };
+		787B33F321D4CC2D006063B3 /* ZJJTranslucentView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZJJTranslucentView.h; sourceTree = "<group>"; };
+		787B33F421D4CC2D006063B3 /* ZJJTranslucentView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZJJTranslucentView.m; sourceTree = "<group>"; };
+		787B33F621D4CC76006063B3 /* ZJJScanViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZJJScanViewController.h; sourceTree = "<group>"; };
+		787B33F721D4CC76006063B3 /* ZJJScanViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZJJScanViewController.m; sourceTree = "<group>"; };
 		78D9C2EA21D37C9300352EF6 /* ZJJScanCodeProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZJJScanCodeProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		78D9C2ED21D37C9300352EF6 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		78D9C2EE21D37C9300352EF6 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -26,6 +50,11 @@
 		78D9C2F921D37C9500352EF6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		78D9C2FB21D37C9500352EF6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		78D9C2FC21D37C9500352EF6 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		78D9C30721D38AF800352EF6 /* scan_2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "scan_2@2x.png"; sourceTree = "<group>"; };
+		78D9C30821D38AF800352EF6 /* scan_net@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "scan_net@2x.png"; sourceTree = "<group>"; };
+		78D9C30921D38AF800352EF6 /* scan_1@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "scan_1@2x.png"; sourceTree = "<group>"; };
+		78D9C30A21D38AF800352EF6 /* scan_4@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "scan_4@2x.png"; sourceTree = "<group>"; };
+		78D9C30B21D38AF800352EF6 /* scan_3@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "scan_3@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,6 +68,48 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		78064D0B21D60B420052E312 /* Tool */ = {
+			isa = PBXGroup;
+			children = (
+				78064D0D21D60B4D0052E312 /* ZJJGetSystemImageTool.h */,
+				78064D0C21D60B4D0052E312 /* ZJJGetSystemImageTool.m */,
+			);
+			path = Tool;
+			sourceTree = "<group>";
+		};
+		787B33EE21D4C605006063B3 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				787B33F321D4CC2D006063B3 /* ZJJTranslucentView.h */,
+				787B33F421D4CC2D006063B3 /* ZJJTranslucentView.m */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		787B33F221D4CC02006063B3 /* ZJJ */ = {
+			isa = PBXGroup;
+			children = (
+				78064D0B21D60B420052E312 /* Tool */,
+				787B33F921D4CC87006063B3 /* Controller */,
+				78D9C30621D38ADD00352EF6 /* Images */,
+				787B33EE21D4C605006063B3 /* View */,
+			);
+			path = ZJJ;
+			sourceTree = "<group>";
+		};
+		787B33F921D4CC87006063B3 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				78064D1621D61D4A0052E312 /* ZJJCreateCodeViewController.h */,
+				78064D1721D61D4A0052E312 /* ZJJCreateCodeViewController.m */,
+				787B33F621D4CC76006063B3 /* ZJJScanViewController.h */,
+				787B33F721D4CC76006063B3 /* ZJJScanViewController.m */,
+				78064D1321D617250052E312 /* ZJJWebViewController.h */,
+				78064D1421D617250052E312 /* ZJJWebViewController.m */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
 		78D9C2E121D37C9300352EF6 = {
 			isa = PBXGroup;
 			children = (
@@ -58,6 +129,7 @@
 		78D9C2EC21D37C9300352EF6 /* ZJJScanCodeProject */ = {
 			isa = PBXGroup;
 			children = (
+				787B33F221D4CC02006063B3 /* ZJJ */,
 				78D9C2ED21D37C9300352EF6 /* AppDelegate.h */,
 				78D9C2EE21D37C9300352EF6 /* AppDelegate.m */,
 				78D9C2F021D37C9300352EF6 /* ViewController.h */,
@@ -69,6 +141,20 @@
 				78D9C2FC21D37C9500352EF6 /* main.m */,
 			);
 			path = ZJJScanCodeProject;
+			sourceTree = "<group>";
+		};
+		78D9C30621D38ADD00352EF6 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				78D9C30921D38AF800352EF6 /* scan_1@2x.png */,
+				78D9C30721D38AF800352EF6 /* scan_2@2x.png */,
+				78D9C30B21D38AF800352EF6 /* scan_3@2x.png */,
+				78D9C30A21D38AF800352EF6 /* scan_4@2x.png */,
+				78D9C30821D38AF800352EF6 /* scan_net@2x.png */,
+				78064D0F21D60FD30052E312 /* qrcode_scan_btn_photo_down@2x.png */,
+				78064D1121D612600052E312 /* qrcode_scan_btn_flash_down@2x.png */,
+			);
+			path = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -128,9 +214,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				78D9C30D21D38AF800352EF6 /* scan_net@2x.png in Resources */,
+				78D9C31021D38AF800352EF6 /* scan_3@2x.png in Resources */,
+				78D9C30C21D38AF800352EF6 /* scan_2@2x.png in Resources */,
 				78D9C2FA21D37C9500352EF6 /* LaunchScreen.storyboard in Resources */,
+				78064D1021D60FD30052E312 /* qrcode_scan_btn_photo_down@2x.png in Resources */,
 				78D9C2F721D37C9500352EF6 /* Assets.xcassets in Resources */,
 				78D9C2F521D37C9300352EF6 /* Main.storyboard in Resources */,
+				78D9C30F21D38AF800352EF6 /* scan_4@2x.png in Resources */,
+				78D9C30E21D38AF800352EF6 /* scan_1@2x.png in Resources */,
+				78064D1221D612600052E312 /* qrcode_scan_btn_flash_down@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -141,9 +234,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				78064D0E21D60B4E0052E312 /* ZJJGetSystemImageTool.m in Sources */,
 				78D9C2F221D37C9300352EF6 /* ViewController.m in Sources */,
 				78D9C2FD21D37C9500352EF6 /* main.m in Sources */,
+				78064D1521D617250052E312 /* ZJJWebViewController.m in Sources */,
+				78064D1821D61D4A0052E312 /* ZJJCreateCodeViewController.m in Sources */,
+				787B33F821D4CC76006063B3 /* ZJJScanViewController.m in Sources */,
 				78D9C2EF21D37C9300352EF6 /* AppDelegate.m in Sources */,
+				787B33F521D4CC2D006063B3 /* ZJJTranslucentView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -283,15 +381,18 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = N6PEU6H462;
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = KU46YZSG72;
 				INFOPLIST_FILE = ZJJScanCodeProject/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.xtayqria.ZJJScanCodeProject;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "d6460221-f013-484e-ac4d-ad09af81b66a";
+				PROVISIONING_PROFILE_SPECIFIER = ZJJAllProjectTestDevProfile;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -300,15 +401,18 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = N6PEU6H462;
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = KU46YZSG72;
 				INFOPLIST_FILE = ZJJScanCodeProject/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.xtayqria.ZJJScanCodeProject;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "d6460221-f013-484e-ac4d-ad09af81b66a";
+				PROVISIONING_PROFILE_SPECIFIER = ZJJAllProjectTestDevProfile;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
