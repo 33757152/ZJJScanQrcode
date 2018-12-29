@@ -42,6 +42,8 @@
     [self setUpFunctionButtons];
     // 开始扫描
     [self beginScanning];
+    // 添加通知
+    [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(didBecomeActive:) name:@"DidBecomeActive" object:nil];
 }
 
 - (void)setUpScanZone {
@@ -241,6 +243,10 @@
 }
 
 - (void)backHome {
+    [self startScan];
+}
+
+- (void)didBecomeActive:(NSNotification *)noti {
     [self startScan];
 }
 
